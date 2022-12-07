@@ -5,8 +5,8 @@
 - 💞️ I’m looking to collaborate on Open Source Kids Apps
 - 📫 Reach me 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=ashiqaliaslam.ashiqaliaslam)
+[![Github](https://img.shields.io/github/followers/ashiqaliaslam?label=Follow&style=social)](https://github.com/ashiqaliaslam)
 
 
 <div id="badges">
