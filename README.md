@@ -39,6 +39,22 @@
 
 
 
+
+
+  <br>
+  
+[![Ashique Ali's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashiqaliaslam&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Ashique Ali's github stats](https://github-readme-stats.vercel.app/api?username=ashiqaliaslam&show_icons=true&theme=tokyonight) | ![Ashique Ali GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashiqaliaslam&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqaliaslam&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ashiqaliaslam&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
+<br>
+
+
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
