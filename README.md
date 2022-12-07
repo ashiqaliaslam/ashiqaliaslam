@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @ashiqaliaslam
+- I'm a freetime developer
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning #Flutter
 - 💞️ I’m looking to collaborate on Open Source Kids Apps
 - 📫 Reach me 
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+
 
 <div id="badges">
   <a href="your-linkedin-URL">
