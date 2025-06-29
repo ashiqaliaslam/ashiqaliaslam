@@ -4,7 +4,7 @@
 - 👀 I’m interested in digitizing the process industry
 - 🌱 I’m currently learning #Flutter
 - 💞️ I’m looking to collaborate on Open Source Kids Apps
-- 📫 Reach me via [twitter](https://www.twitter.com/ashiqaliaslam), [linkedin](https://www.linkedin.com/in/ashiqaliaslam), [aali.pro](https://www.aali.pro)
+- 📫 Reach me via [twitter](https://www.twitter.com/ashiqaliaslam), [linkedin](https://www.linkedin.com/in/ashiqaliaslam)
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=ashiqaliaslam)
 [![Github](https://img.shields.io/github/followers/ashiqaliaslam?label=Follow&style=social)](https://github.com/ashiqaliaslam)
